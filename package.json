@@ -1,6 +1,6 @@
 {
-  "name": "uni-qrcode",
-  "version": "1.0.0",
+  "name": "uniapp-qrcode",
+  "version": "1.0.1",
   "description": "微信小程序，支付宝小程序条码、二维码生成模块",
   "main": "index.js",
   "scripts": {},

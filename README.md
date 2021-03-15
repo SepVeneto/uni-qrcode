@@ -8,13 +8,13 @@
 ## 安装
 
 ```bash
-$ npm install wxcode
+$ npm install uniapp-qrcode
 ```
 
 ## 使用方法
 
 ```js
-import wxcode from 'wxcode'
+import wxcode from 'uniapp-qrcode'
 
 wxcode.barcode('barcode', '1234567890123456789', 680, 200);
 wxcode.qrcode('qrcode', '1234567890123456789', 420, 420);
